@@ -1,0 +1,13 @@
+Dataset,Horizon,MASE,RMSE
+AMZN,MT,2.987,12.98
+GOOG,MT,2.793,156.8
+MSFT,MT,2.828,17.38
+Births,MT,2.447,2553
+Colombia_Dengue,MT,8.720,922.4
+Colombia_Malaria,MT,4.436,591.1
+Venezuela_Dengue,MT,3.381,513.5
+Venezuela_Malaria,MT,0.815,162.6
+US_EPU_Index,MT,4.939,104.9
+UK_Unemployment,MT,6.154,0.258
+Russia_Exchange,MT,4.816,4.912
+Tourism,MT,0.773,83.21

@@ -1,0 +1,5 @@
+# R packages: forecast, nnet  (optional: nnfor)
+# Python:
+u8darts[torch]
+pandas
+numpy
